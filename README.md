@@ -1,2 +1,2 @@
 # Random
-A repo try to try new things
+A repo to try new things
