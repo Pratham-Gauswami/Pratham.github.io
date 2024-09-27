@@ -41,8 +41,3 @@ This Portfolio is a showcase of my skills, projects, and experiences as a develo
    ```
 
 5. Open your browser and navigate to `http://localhost:3000` to view the Portfolio.
-
-## Customization
-
-- **Personalize Content**: Customize the content of the Portfolio by updating the information in the components.
-- **Styling**: Modify the styling and layout of the Portfolio by editing the CSS or using CSS frameworks like Bootstrap.
